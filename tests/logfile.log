@@ -1,0 +1,74 @@
+2021-06-30 16:57:20,501 :INFO :test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="a4b254073ea5fed1800e24e8ca2510b4", element="ace6453c-e97d-4c06-9b13-93e628806841")>, <selenium.webdriver.remote.webelement.WebElement (session="a4b254073ea5fed1800e24e8ca2510b4", element="e31b0c41-33d4-415a-be19-5ed78271b01a")>, <selenium.webdriver.remote.webelement.WebElement (session="a4b254073ea5fed1800e24e8ca2510b4", element="54eabec4-9f97-4582-a4b2-f5918d0f7704")>, <selenium.webdriver.remote.webelement.WebElement (session="a4b254073ea5fed1800e24e8ca2510b4", element="15a00a8b-9d23-4c0e-8815-cfd3bd817fcc")>]
+2021-06-30 16:57:20,546 :INFO :test_e2e :iphone X
+2021-06-30 16:57:20,787 :INFO :test_e2e :Samsung Note 8
+2021-06-30 16:57:21,002 :INFO :test_e2e :Nokia Edge
+2021-06-30 16:57:21,034 :INFO :test_e2e :Blackberry
+2021-06-30 16:57:21,785 :INFO :test_e2e :Entering country name as ind
+2021-06-30 16:57:28,350 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-30 17:01:21,273 :INFO :test_formSubmission :first name is Anita
+2021-06-30 17:01:22,530 :INFO :test_formSubmission :first name is Anita1
+2021-06-30 17:01:22,530 :INFO :test_formSubmission :first name is Anita1
+2021-06-30 17:23:05,077 :INFO :test_formSubmission :first name is Anita
+2021-06-30 17:23:08,025 :INFO :test_formSubmission :first name is Anita1
+2021-06-30 17:23:08,025 :INFO :test_formSubmission :first name is Anita1
+2021-06-30 17:23:17,420 :INFO :test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="ded0f34c3f72bb1c69d7f3daa16a9582", element="0558fcd8-0b14-45e2-976c-0b62778e3c5f")>, <selenium.webdriver.remote.webelement.WebElement (session="ded0f34c3f72bb1c69d7f3daa16a9582", element="e3bf3925-86ca-4356-81a6-7ab6a1263aac")>, <selenium.webdriver.remote.webelement.WebElement (session="ded0f34c3f72bb1c69d7f3daa16a9582", element="67694116-173f-4ab2-9df4-62f2c958d4f4")>, <selenium.webdriver.remote.webelement.WebElement (session="ded0f34c3f72bb1c69d7f3daa16a9582", element="c372c4b0-27ec-4199-84c3-750412dc74e0")>]
+2021-06-30 17:23:17,543 :INFO :test_e2e :iphone X
+2021-06-30 17:23:17,988 :INFO :test_e2e :Samsung Note 8
+2021-06-30 17:23:18,035 :INFO :test_e2e :Nokia Edge
+2021-06-30 17:23:18,060 :INFO :test_e2e :Blackberry
+2021-06-30 17:23:19,319 :INFO :test_e2e :Entering country name as ind
+2021-06-30 17:23:25,479 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-30 17:41:28,979 :INFO :test_formSubmission :first name is Anita
+2021-06-30 17:41:31,484 :INFO :test_formSubmission :first name is Anita1
+2021-06-30 17:41:31,484 :INFO :test_formSubmission :first name is Anita1
+2021-06-30 17:41:40,275 :INFO :test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="91a4d73e6cc7e52f34bb7a983d965243", element="a2fd7710-56cc-41b1-9214-9f578bdbdb48")>, <selenium.webdriver.remote.webelement.WebElement (session="91a4d73e6cc7e52f34bb7a983d965243", element="aa4b8410-4005-45ab-939d-f7ac4f275086")>, <selenium.webdriver.remote.webelement.WebElement (session="91a4d73e6cc7e52f34bb7a983d965243", element="0f877f0c-3b2f-4111-bac4-972aadbab456")>, <selenium.webdriver.remote.webelement.WebElement (session="91a4d73e6cc7e52f34bb7a983d965243", element="57f33cdf-0c2d-46c4-bd8c-efea0ad0e2bf")>]
+2021-06-30 17:41:40,297 :INFO :test_e2e :iphone X
+2021-06-30 17:41:40,421 :INFO :test_e2e :Samsung Note 8
+2021-06-30 17:41:40,443 :INFO :test_e2e :Nokia Edge
+2021-06-30 17:41:40,464 :INFO :test_e2e :Blackberry
+2021-06-30 17:41:41,065 :INFO :test_e2e :Entering country name as ind
+2021-06-30 17:41:47,086 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-07-01 00:01:35,407 :INFO :test_formSubmission :first name is Anita
+2021-07-01 00:01:38,528 :INFO :test_formSubmission :first name is Anita1
+2021-07-01 00:01:38,528 :INFO :test_formSubmission :first name is Anita1
+2021-07-01 00:02:00,768 :INFO :test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="df8798b870b237b904c7b8e063ce103c", element="358c80fa-48da-45b8-ada6-3454ba431f10")>, <selenium.webdriver.remote.webelement.WebElement (session="df8798b870b237b904c7b8e063ce103c", element="8aad1101-c9fe-46a5-965a-9c07109dcfc8")>, <selenium.webdriver.remote.webelement.WebElement (session="df8798b870b237b904c7b8e063ce103c", element="28fe034b-a198-4ec8-a252-a823458c6d89")>, <selenium.webdriver.remote.webelement.WebElement (session="df8798b870b237b904c7b8e063ce103c", element="5f30eb8b-b28e-4adb-ac2c-63ff9c5e4990")>]
+2021-07-01 00:02:01,016 :INFO :test_e2e :iphone X
+2021-07-01 00:02:01,395 :INFO :test_e2e :Samsung Note 8
+2021-07-01 00:02:01,504 :INFO :test_e2e :Nokia Edge
+2021-07-01 00:02:01,529 :INFO :test_e2e :Blackberry
+2021-07-01 00:02:03,689 :INFO :test_e2e :Entering country name as ind
+2021-07-01 00:02:13,811 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-07-01 00:57:49,778 :INFO :test_formSubmission :first name is Anita
+2021-07-01 00:57:52,103 :INFO :test_formSubmission :first name is Anita1
+2021-07-01 00:57:52,103 :INFO :test_formSubmission :first name is Anita1
+2021-07-01 00:58:08,468 :INFO :test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="e4c75589c1dc1021e5a0a8771e049073", element="12eae48e-46c9-493f-ae42-7d3283ec4e84")>, <selenium.webdriver.remote.webelement.WebElement (session="e4c75589c1dc1021e5a0a8771e049073", element="03c3dd4e-90cd-45dc-a210-0535624f44f2")>, <selenium.webdriver.remote.webelement.WebElement (session="e4c75589c1dc1021e5a0a8771e049073", element="37a54102-b9ae-4577-91c5-1ca498594796")>, <selenium.webdriver.remote.webelement.WebElement (session="e4c75589c1dc1021e5a0a8771e049073", element="b4cd17b2-ffed-4c84-9784-c062eae89588")>]
+2021-07-01 00:58:08,491 :INFO :test_e2e :iphone X
+2021-07-01 00:58:08,749 :INFO :test_e2e :Samsung Note 8
+2021-07-01 00:58:08,771 :INFO :test_e2e :Nokia Edge
+2021-07-01 00:58:08,791 :INFO :test_e2e :Blackberry
+2021-07-01 00:58:09,940 :INFO :test_e2e :Entering country name as ind
+2021-07-01 00:58:16,569 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-07-03 00:34:59,230 :INFO :test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="d47b0381de17337e5bf00229d15f68e1", element="08469107-8acc-49ee-9bfe-66aef3caa2b7")>, <selenium.webdriver.remote.webelement.WebElement (session="d47b0381de17337e5bf00229d15f68e1", element="b5f23e08-c022-462e-8171-92ba5b69e9ce")>, <selenium.webdriver.remote.webelement.WebElement (session="d47b0381de17337e5bf00229d15f68e1", element="46bfa653-8a5c-4cb7-977f-87564fec2b2b")>, <selenium.webdriver.remote.webelement.WebElement (session="d47b0381de17337e5bf00229d15f68e1", element="d113a79d-a618-4220-8888-9adcac6e840a")>]
+2021-07-03 00:34:59,381 :INFO :test_e2e :iphone X
+2021-07-03 00:34:59,660 :INFO :test_e2e :Samsung Note 8
+2021-07-03 00:34:59,683 :INFO :test_e2e :Nokia Edge
+2021-07-03 00:34:59,704 :INFO :test_e2e :Blackberry
+2021-07-03 00:35:00,687 :INFO :test_e2e :Entering country name as ind
+2021-07-03 00:35:06,775 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-07-03 01:21:26,158 :INFO :test_formSubmission :first name is Anita
+2021-07-03 01:21:28,596 :INFO :test_formSubmission :first name is Anita1
+2021-07-03 01:21:28,596 :INFO :test_formSubmission :first name is Anita1
+2021-07-03 01:21:39,238 :INFO :test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="ad55b87ced0d2b05315c8df89c55c5c6", element="8a77a8a7-4045-468e-97a7-986e98345dbd")>, <selenium.webdriver.remote.webelement.WebElement (session="ad55b87ced0d2b05315c8df89c55c5c6", element="3828e65a-8056-46f8-b3fa-3e38c99ff8a9")>, <selenium.webdriver.remote.webelement.WebElement (session="ad55b87ced0d2b05315c8df89c55c5c6", element="f2335a5f-7ee1-4cb7-9c1d-80e81211a694")>, <selenium.webdriver.remote.webelement.WebElement (session="ad55b87ced0d2b05315c8df89c55c5c6", element="3abc844f-ce35-4b01-a85f-0f01b8ecaedd")>]
+2021-07-03 01:21:39,264 :INFO :test_e2e :iphone X
+2021-07-03 01:21:39,526 :INFO :test_e2e :Samsung Note 8
+2021-07-03 01:21:39,548 :INFO :test_e2e :Nokia Edge
+2021-07-03 01:21:39,568 :INFO :test_e2e :Blackberry
+2021-07-03 01:21:39,965 :INFO :test_e2e :Entering country name as ind
+2021-07-03 01:21:45,543 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
